@@ -55,7 +55,6 @@ public class CharacterAnimController : MonoBehaviour
             _animator.SetFloat(_RUNNING_SPEED, animSpeedValue * m_speedCoef);
             
             _transform.rotation = Quaternion.RotateTowards(_transform.rotation, Quaternion.LookRotation(new Vector3(normalizedDir.x, 0, normalizedDir.y)), Time.deltaTime * 360*4);
-            //_transform.forward = Vector3.Slerp(_transform.forward, new Vector3(normalizedDir.x, 0, normalizedDir.y), 180 * Time.deltaTime);
         }
         else
         {
