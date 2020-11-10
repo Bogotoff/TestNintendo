@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: PlayerMoveSettings
   m_EditorClassIdentifier: 
   m_acceleration: 8
-  m_maxSpeed: 9.18
+  m_maxSpeed: 8
   m_friction: 0.01

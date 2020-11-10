@@ -17,7 +17,7 @@ MonoBehaviour:
   m_walkSpeed: 0.9
   m_walkDistance: 3
   m_runAwayTimeMin: 0
-  m_runAwayTimeMax: 2
+  m_runAwayTimeMax: 3
   m_targetSwitchCooldownMin: 2
   m_targetSwitchCooldownMax: 4
   m_targetPointArea:

@@ -93,6 +93,26 @@ PrefabInstance:
       propertyPath: _moveSettings
       value: 
       objectReference: {fileID: 11400000, guid: 139601c59202b1b459d85a225f306280, type: 2}
+    - target: {fileID: 4793256871342751088, guid: f42778e65d76e444485de54a43ff52bb, type: 3}
+      propertyPath: m_Radius
+      value: 0.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 5060199849581136740, guid: f42778e65d76e444485de54a43ff52bb, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5060199849581136740, guid: f42778e65d76e444485de54a43ff52bb, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5060199849581136740, guid: f42778e65d76e444485de54a43ff52bb, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5060199849581136740, guid: f42778e65d76e444485de54a43ff52bb, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.4
+      objectReference: {fileID: 0}
     - target: {fileID: 7240722552522564465, guid: f42778e65d76e444485de54a43ff52bb, type: 3}
       propertyPath: m_Name
       value: PlayerAIPrefab

@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b122c221d6014508ab86ab656b63433d, type: 3}
   m_Name: PenguinMoveSettings
   m_EditorClassIdentifier: 
-  m_acceleration: 100
-  m_maxSpeed: 20
+  m_acceleration: 200
+  m_maxSpeed: 8.5
   m_friction: 0.2
